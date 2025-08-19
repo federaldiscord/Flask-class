@@ -13,7 +13,7 @@
 ### 🚀 Tecnologías & Herramientas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTMLstyle=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML-black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
