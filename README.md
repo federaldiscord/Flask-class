@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Steban C — Desarrollador de Software"/>
+  <img src="banner.svg" alt="Steban C — Desarrollador de Software"/>
 </p>
 
 # 👋 Hola, soy Steban C
