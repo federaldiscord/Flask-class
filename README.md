@@ -1,3 +1,4 @@
+<HTML>
 <!-- Parte del Banner -->
 
 <p align="center">
@@ -28,7 +29,7 @@
     </g>
   </svg>
 </p>
-
+</HTML>
 # 👋 Hola, soy Steban C
 
 ## 💻 Desarrollador de Software
