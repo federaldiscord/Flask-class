@@ -1,29 +1,5 @@
 <p align="center">
-  <img src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='100%' height='240' viewBox='0 0 1200 240'>
-    <defs>
-      <linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'>
-        <stop offset='0%' stop-color='%230ea5e9'>
-          <animate attributeName='stop-color' values='%230ea5e9; %236366f1; %2322c55e; %230ea5e9' dur='12s' repeatCount='indefinite'/>
-        </stop>
-        <stop offset='100%' stop-color='%23111827'>
-          <animate attributeName='stop-color' values='%23111827; %230f172a; %23111827' dur='12s' repeatCount='indefinite'/>
-        </stop>
-      </linearGradient>
-      <linearGradient id='textGrad' x1='0%' y1='0%' x2='100%' y2='0%'>
-        <stop offset='0%' stop-color='%23ffffff'/>
-        <stop offset='50%' stop-color='%23e5e7eb'/>
-        <stop offset='100%' stop-color='%23ffffff'/>
-        <animate attributeName='x1' values='0%;100%;0%' dur='10s' repeatCount='indefinite'/>
-        <animate attributeName='x2' values='100%;0%;100%' dur='10s' repeatCount='indefinite'/>
-      </linearGradient>
-    </defs>
-    <rect x='0' y='0' width='1200' height='240' fill='url(%23bgGrad)' rx='24'/>
-    <g>
-      <text x='50%' y='110' text-anchor='middle' font-size='56' font-family='Segoe UI, Roboto, Ubuntu, Arial, sans-serif' fill='url(%23textGrad)' font-weight='800'>Steban C</text>
-      <text x='50%' y='165' text-anchor='middle' font-size='26' font-family='Segoe UI, Roboto, Ubuntu, Arial, sans-serif' fill='%23ffffff' opacity='0.9'>Desarrollador de Software · Bases de Datos · Web</text>
-    </g>
-  </svg>" alt="Steban C — Desarrollador de Software"/>
+  <img src="assets/banner.svg" alt="Steban C — Desarrollador de Software"/>
 </p>
 
 # 👋 Hola, soy Steban C
