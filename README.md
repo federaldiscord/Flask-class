@@ -1,4 +1,4 @@
-# 👋 Hola, soy \Steban C
+# 👋 Hola, soy Steban C
 
 ## 💻 Desarrollador de Software
 
@@ -13,7 +13,8 @@
 ### 🚀 Tecnologías & Herramientas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML-black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
@@ -36,8 +37,8 @@
 
 ### 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/steban-carrizosa-5a36132aa](https://www.linkedin.com/in/steban-carrizosa-5a36132aa))
-[![Portfolio](https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge)](target_blank=https://asari-community.neocities.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/steban-carrizosa-5a36132aa)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge)](https://asari-community.neocities.org)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:carrizosaortegon.steban@gmail.com)
 
 ---
